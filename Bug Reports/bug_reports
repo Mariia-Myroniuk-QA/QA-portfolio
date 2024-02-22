@@ -1,0 +1,16 @@
+{
+	"Bug":"1",
+	"Priority":"Hight",
+	"Summary":"Total price does not reflectedgit to the product quanlity",
+	"Steps to reproduce":
+	{
+	"1":"Go to any Category",
+	"2":"Add any item to the Cart",
+	"3":"Go to the Cart",
+	"4":"Change quanlity of the product",
+	"5":"Go to the payment page",
+	"6":"Observe the total price"
+	},
+	"Actual result":"Tptal price display as for 1 item",
+	"Expected result":"Total price should reflect to the quanlity of the product"
+}
